@@ -6,5 +6,6 @@ def add(a,b):
 def multi(a,b):
     return a*b
 
-
+def dev(a,b):
+    return a*b
     
